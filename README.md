@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm qu0kka</h1>
-<h3 align="center">development beginner</h3>
+<h3 align="center">web development beginner</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
